@@ -1,0 +1,14 @@
+C:\Users\NSX\Documents\Programación C#\Math Game\MathGame\bin\Debug\net9.0\MathGame.exe
+C:\Users\NSX\Documents\Programación C#\Math Game\MathGame\bin\Debug\net9.0\MathGame.deps.json
+C:\Users\NSX\Documents\Programación C#\Math Game\MathGame\bin\Debug\net9.0\MathGame.runtimeconfig.json
+C:\Users\NSX\Documents\Programación C#\Math Game\MathGame\bin\Debug\net9.0\MathGame.dll
+C:\Users\NSX\Documents\Programación C#\Math Game\MathGame\bin\Debug\net9.0\MathGame.pdb
+C:\Users\NSX\Documents\Programación C#\Math Game\MathGame\obj\Debug\net9.0\MathGame.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\NSX\Documents\Programación C#\Math Game\MathGame\obj\Debug\net9.0\MathGame.AssemblyInfoInputs.cache
+C:\Users\NSX\Documents\Programación C#\Math Game\MathGame\obj\Debug\net9.0\MathGame.AssemblyInfo.cs
+C:\Users\NSX\Documents\Programación C#\Math Game\MathGame\obj\Debug\net9.0\MathGame.csproj.CoreCompileInputs.cache
+C:\Users\NSX\Documents\Programación C#\Math Game\MathGame\obj\Debug\net9.0\MathGame.dll
+C:\Users\NSX\Documents\Programación C#\Math Game\MathGame\obj\Debug\net9.0\refint\MathGame.dll
+C:\Users\NSX\Documents\Programación C#\Math Game\MathGame\obj\Debug\net9.0\MathGame.pdb
+C:\Users\NSX\Documents\Programación C#\Math Game\MathGame\obj\Debug\net9.0\MathGame.genruntimeconfig.cache
+C:\Users\NSX\Documents\Programación C#\Math Game\MathGame\obj\Debug\net9.0\ref\MathGame.dll
