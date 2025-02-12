@@ -1,4 +1,4 @@
-
+namespace MathGame.Models;
 class Operator
 {
     public string Name { get; }
@@ -12,16 +12,5 @@ class Operator
         Name = name;
         Symbol = symbol;
         Calculate = calculate ?? throw new ArgumentNullException(nameof(calculate));
-    }
-
-    public static string[] GetNames(IEnumerable<Operator> operators) =>
-        operators.Select(op => op.Name).ToArray();
-
-    public static Operator GetRandom(IEnumerable<Operator> operators) =>
-        operators.ElementAt(new Random().Next(operators.Count()));
-
-    public override string ToString()
-    {
-        return Name;
     }
 }
